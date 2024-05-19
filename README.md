@@ -8,4 +8,4 @@ free frida scripts on brawl stars
 
 # Credits
 1. sprkdv (create this script)
-2. antonplusdls (helping on creating script)
+2. antonplusdlc (helping on creating script)
